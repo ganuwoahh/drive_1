@@ -12,8 +12,12 @@ This project explores retinal blood vessel segmentation using a UNet while prese
 
 Results:
 Dice: 0.7822
+
 IoU: 0.6425
+
 Sensitivity: 0.7602
+
 Specificity: 0.9826
+
 
 <img width="950" height="315" alt="v5" src="https://github.com/user-attachments/assets/de2e6e34-8b53-464b-83a2-c551bdeb4a2a" />
