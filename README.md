@@ -8,7 +8,7 @@ This project explores retinal blood vessel segmentation using a UNet while prese
 
 -> Used a combined Dice + clDice loss to improve vessel connectivity
 
--> Applied test-time augmentation (TTA) at inference for more stable predictions
+-> Applied test-time augmentation at inference for more stable predictions
 
 Results:
 
