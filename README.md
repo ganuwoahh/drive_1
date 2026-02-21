@@ -11,6 +11,7 @@ This project explores retinal blood vessel segmentation using a UNet while prese
 -> Applied test-time augmentation (TTA) at inference for more stable predictions
 
 Results:
+
 Dice: 0.7822
 
 IoU: 0.6425
